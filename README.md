@@ -1,6 +1,6 @@
 ## 🤘 Sobre
 
-Repositório do projeto de testes automatizados do sistema Startbugs, construído no curso Cucumber eXperience!
+Repositório do projeto de testes automatizados do sistema Startbugs, construído no curso BDD eXperience!
 
 ## 💻 Tecnologias
 - Ruby
